@@ -1,6 +1,6 @@
 {
   "name": "new-socket",
-  "homepage": "https://cebanoleksandr.github.io/websocket-chat",
+  "homepage": "https://cebanoleksandr.github.io/new-socket",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
